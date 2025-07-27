@@ -1,4 +1,4 @@
-# 🧠 Customer Segmentation Analysis with Clustering & Market Basket Analysis
+# 🧠 Customer Segmentation Analysis with K-means, Hierarchical, and Market Basket Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
@@ -78,8 +78,8 @@ This project implements a **customer segmentation analysis** pipeline using **K-
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/customer-segmentation-analysis.git
-cd customer-segmentation-analysis
+git clone https://github.com/zubair-csc/005-Customer-Segmentation-Analysis-_K_means_hierarchical_markt_Basket.git
+cd 005-Customer-Segmentation-Analysis-_K_means_hierarchical_markt_Basket
 ```
 
 Install required libraries:
