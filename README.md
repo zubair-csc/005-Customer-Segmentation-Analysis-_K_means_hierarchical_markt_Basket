@@ -109,11 +109,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn scipy mlxtend
 
 ---
 
-## 📝 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙌 Acknowledgments
 - Kaggle for providing the datasets
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `scipy`, `mlxtend`, `matplotlib`, `seaborn`
